@@ -1,6 +1,6 @@
 # springboot-react-mysql-crud
 
-The Application with perform the CRUD operations using Springboot, React and MySQL/MariaDB
+The Application will perform the CRUD operations using Springboot, React and MySQL/MariaDB
 
 Pre-requisites:
   1. Maven
