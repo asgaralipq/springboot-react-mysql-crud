@@ -2,12 +2,12 @@
 
 The Application will perform the CRUD operations using Springboot, React and MySQL/MariaDB
 
-Pre-requisites:
+## Pre-requisites:
   1. Maven
   2. React
   3. MySql/MariaDB
 
-To run the application:
+## To run the application:
 
   1. Navigate to application.properties ``` cd crud/src/main/resources/ ```
   2. Edit the following in application.properties with your mysql config:
